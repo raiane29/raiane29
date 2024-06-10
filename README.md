@@ -69,7 +69,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AtilaVasck/count.svg"/>
+  <img src="https://profile-counter.glitch.me/raiane29/count.svg"/>
 </p>
 <!---
 raiane29/raiane29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
